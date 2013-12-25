@@ -1,0 +1,732 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"co",
+				"col-3-2"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"c",
+				"clearfix"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"photo",
+				"photo_list"
+			],
+			[
+				"alb",
+				"album_list"
+			],
+			[
+				"al",
+				"album_list"
+			],
+			[
+				"sor",
+				"sort_by_dt"
+			],
+			[
+				"ph",
+				"photo_list"
+			],
+			[
+				"n",
+				"nearTime"
+			],
+			[
+				"cur",
+				"curTime"
+			],
+			[
+				"str",
+				"string2Time"
+			],
+			[
+				"pho",
+				"photo_list"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"so",
+				"social"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"y-gre",
+				"y-green-1"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"add",
+				"add_header"
+			],
+			[
+				"tpl",
+				"tpl_js"
+			],
+			[
+				"custo",
+				"custom_footer"
+			],
+			[
+				"page",
+				"page_dir"
+			],
+			[
+				"par",
+				"partition_af"
+			],
+			[
+				"exif",
+				"exif_info"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"out",
+				"output_album_handle"
+			],
+			[
+				"th",
+				"thumbs_dir"
+			],
+			[
+				"tp",
+				"tpl_footer"
+			],
+			[
+				"pro",
+				"processPhotoPage"
+			],
+			[
+				"ab",
+				"albums"
+			],
+			[
+				"about",
+				"about_handle"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"time",
+				"time2String"
+			],
+			[
+				"ge",
+				"generateFiles"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"pra",
+				"paragraph"
+			],
+			[
+				"input",
+				"input_paragraph"
+			],
+			[
+				"para",
+				"paragraph"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"to",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"backr",
+				"background-position"
+			],
+			[
+				"anima",
+				"animate	animate"
+			],
+			[
+				"y-g",
+				"y-green-2"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"summa",
+				"summary-content"
+			],
+			[
+				"sum",
+				"summary"
+			],
+			[
+				"entry",
+				"entry-title"
+			],
+			[
+				"entry-sum",
+				"entry-summary-header"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"resize",
+				"resize-header"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"y-",
+				"y-green-1"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bod",
+				"border-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"s",
+				"smarty"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"lin",
+				"link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index2.html",
+			"settings":
+			{
+				"buffer_size": 11790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.less",
+			"settings":
+			{
+				"buffer_size": 2509,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 3388,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"show",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"shoe",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"error",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"er",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"err",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"prefixe",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"tih",
+				"Tidy HTML"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/workspace_git/yecols.cn/assets/css/reset.css",
+		"/D/workspace_git/tingdeng/index.html",
+		"/D/workspace_git/tingdeng-2/index.html",
+		"/D/xampp/htdocs/baidu-charity/static/assets/css/style.less",
+		"/D/workspace_git/tingdeng/style.css",
+		"/D/workspace_git/yecols.cn/sftp-config.json",
+		"/D/workspace_git/yecols.cn/inc/generate.py",
+		"/D/workspace_git/yecols.cn/about/index.html",
+		"/D/workspace_git/yecols.cn/about/index1.html",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20px",
+			"info",
+			";\n",
+			"img",
+			"page",
+			"();\n",
+			"checkwords.py",
+			"summary-content",
+			"footer",
+			"link_page",
+			"link-page",
+			"article",
+			"entry-header",
+			"header",
+			"body",
+			"a",
+			"header",
+			"button",
+			"page",
+			".entry-content p",
+			".entry-content p, .entry-summary p, .comment-content p, .mu_register p",
+			"body p",
+			"font-family",
+			"site-content",
+			"content",
+			"hr",
+			"../res",
+			"\"./res",
+			"./res/",
+			"./res",
+			"image",
+			"a-001",
+			"{\n",
+			"text-align: center;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/res",
+			"\"../res",
+			"../res/",
+			"../res"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index2.html",
+					"settings":
+					{
+						"buffer_size": 11790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style.less",
+					"settings":
+					{
+						"buffer_size": 2509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 3388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.429965812445,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 328.0
+	},
+	"output.git":
+	{
+		"height": 161.0
+	},
+	"output.sftp":
+	{
+		"height": 262.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
