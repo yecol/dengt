@@ -316,10 +316,10 @@
 	"buffers":
 	[
 		{
-			"file": "index2.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 11790,
+				"buffer_size": 12680,
 				"line_ending": "Windows"
 			}
 		},
@@ -327,7 +327,7 @@
 			"file": "style.less",
 			"settings":
 			{
-				"buffer_size": 2509,
+				"buffer_size": 2528,
 				"line_ending": "Windows"
 			}
 		},
@@ -335,8 +335,8 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 3388,
-				"line_ending": "Unix"
+				"buffer_size": 2229,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -468,6 +468,7 @@
 	},
 	"file_history":
 	[
+		"/D/workspace_git/dengt/index2.html",
 		"/D/workspace_git/yecols.cn/assets/css/reset.css",
 		"/D/workspace_git/tingdeng/index.html",
 		"/D/workspace_git/tingdeng-2/index.html",
@@ -555,18 +556,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index2.html",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 11790,
+						"buffer_size": 12680,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								356,
-								356
+								4085,
+								4085
 							]
 						],
 						"settings":
@@ -579,7 +580,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1650.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -595,7 +596,7 @@
 					"file": "style.less",
 					"settings":
 					{
-						"buffer_size": 2509,
+						"buffer_size": 2528,
 						"regions":
 						{
 						},
@@ -625,7 +626,7 @@
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 3388,
+						"buffer_size": 2229,
 						"regions":
 						{
 						},
@@ -680,7 +681,7 @@
 		"cols":
 		[
 			0.0,
-			0.429965812445,
+			0.746255943242,
 			1.0
 		],
 		"rows":
