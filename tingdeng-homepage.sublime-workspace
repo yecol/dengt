@@ -316,14 +316,6 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 13375,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "style.less",
 			"settings":
 			{
@@ -468,6 +460,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/dengt/index.html",
 		"/D/workspace_git/dengt/index2.html",
 		"/D/workspace_git/yecols.cn/assets/css/reset.css",
 		"/D/workspace_git/tingdeng/index.html",
@@ -551,40 +544,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 13375,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11925,
-								11925
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3430.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
@@ -592,7 +553,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 0,
 					"file": "style.less",
 					"settings":
 					{
@@ -622,7 +583,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "style.css",
 					"settings":
 					{
