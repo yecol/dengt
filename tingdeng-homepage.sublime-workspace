@@ -319,7 +319,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 13376,
+				"buffer_size": 13707,
 				"line_ending": "Unix"
 			}
 		},
@@ -560,15 +560,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 13376,
+						"buffer_size": 13707,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1998,
-								1998
+								4020,
+								4020
 							]
 						],
 						"settings":
@@ -581,7 +581,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2559.0,
+						"translation.y": 1179.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
